@@ -1,7 +1,12 @@
 # ReverseEnginneringToolchain
-Just a place for me to note down things 
+A Reverse Enginnering Toolchain, comprised of tools I have found and heard of. 
+
+# Use 
+To use this repo, make a branch from the main line and run the setup script. You will also need to install GDB, Ghidra, Pwntools and patchelf yourself.
 
 
+
+# Tools
 * GDB
 * GEF (https://github.com/hugsy/gef)
 * Ghidra 
